@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #define ARR_SIZE 4
-
+ 
 void task() {
     int n = 100000;
     double r, f;
