@@ -1,0 +1,13 @@
+C:\Users\klaud\source\repos\lab1MPWI\bin\Debug\netcoreapp3.1\lab1MPWI.exe
+C:\Users\klaud\source\repos\lab1MPWI\bin\Debug\netcoreapp3.1\lab1MPWI.deps.json
+C:\Users\klaud\source\repos\lab1MPWI\bin\Debug\netcoreapp3.1\lab1MPWI.runtimeconfig.json
+C:\Users\klaud\source\repos\lab1MPWI\bin\Debug\netcoreapp3.1\lab1MPWI.runtimeconfig.dev.json
+C:\Users\klaud\source\repos\lab1MPWI\bin\Debug\netcoreapp3.1\lab1MPWI.dll
+C:\Users\klaud\source\repos\lab1MPWI\bin\Debug\netcoreapp3.1\lab1MPWI.pdb
+C:\Users\klaud\source\repos\lab1MPWI\obj\Debug\netcoreapp3.1\lab1MPWI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaud\source\repos\lab1MPWI\obj\Debug\netcoreapp3.1\lab1MPWI.AssemblyInfoInputs.cache
+C:\Users\klaud\source\repos\lab1MPWI\obj\Debug\netcoreapp3.1\lab1MPWI.AssemblyInfo.cs
+C:\Users\klaud\source\repos\lab1MPWI\obj\Debug\netcoreapp3.1\lab1MPWI.csproj.CoreCompileInputs.cache
+C:\Users\klaud\source\repos\lab1MPWI\obj\Debug\netcoreapp3.1\lab1MPWI.dll
+C:\Users\klaud\source\repos\lab1MPWI\obj\Debug\netcoreapp3.1\lab1MPWI.pdb
+C:\Users\klaud\source\repos\lab1MPWI\obj\Debug\netcoreapp3.1\lab1MPWI.genruntimeconfig.cache
